@@ -1,0 +1,34 @@
+body{
+  font-family: 'Noto Sans JP', sans-serif;
+  text-align: center;
+  margin: 1em;
+  border: 5px solid orange;
+}
+#list{
+  padding: 3em;
+  width: 60%;
+  margin: auto;
+}
+li{
+  margin: 1em;
+  list-style: none;
+}
+input{
+  padding: 0.5em;
+  font-size: 1em;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+#enter{
+  padding: 0.5em;
+  background-color: orange;.
+  font-family: 'Noto Sans JP', sans-serif;
+}
+#delete{
+  background-color: red;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin: 0 1em;
+  display: inline;
+}
+.striker{
+  text-decoration: line-through;
+}
